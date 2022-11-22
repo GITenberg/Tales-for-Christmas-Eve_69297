@@ -1,5 +1,8 @@
 _repo: Tales-for-Christmas-Eve_69297
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69297-h/images/cover.jpg
 creator:
   author:
     agent_name: Broughton, Rhoda
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4306
     wikipedia: https://en.wikipedia.org/wiki/Rhoda_Broughton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69297#Tales-for-Christmas-Eve
 gutenberg_issued: '2022-11-06'
 identifiers:
   gutenberg: '69297'
